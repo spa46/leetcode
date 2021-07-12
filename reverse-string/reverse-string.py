@@ -5,5 +5,12 @@ class Solution(object):
         :rtype: None Do not return anything, modify s in-place instead.
         """
         
-        s.reverse()
+        i=0; j=len(s)-1
+        
+        while i<j:
+            t = s[j]
+            s[j] = s[i]
+            s[i] = t
+            i += 1; j-= 1
+            
             
