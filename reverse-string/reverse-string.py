@@ -5,11 +5,13 @@ class Solution(object):
         :rtype: None Do not return anything, modify s in-place instead.
         """
         
-        tmp = [v for v in s]
+        i=0; j=len(s)-1
         
-        for i in range(len(tmp)-1, -1, -1):
-            j = len(s)-i-1
-            # print(j, s[j], tmp[i])
-            s[j] = tmp[i]
-        
+        while i<j:
+            if s[i] != s[j]:
+                t = s[j]
+                s[j] = s[i]
+                s[i] = t
+            i += 1; j-= 1
+            
             
