@@ -9,10 +9,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # OLD
 * [Leetcode : Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 
--
-* [Leetcode : Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-* [Leetcode : Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-
 # 6.15
 * [Leetcode : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 * [Leetcode : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
