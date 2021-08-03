@@ -2,24 +2,8 @@
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
 
 
-# 7.26
-* [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
-* [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-
 # OLD
 * [Leetcode : Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-
-# 6.15
-* [Leetcode : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
-* [Leetcode : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
-
-# 6.8
-* [Leetcode : Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-* [Leetcode : LRU Cache](https://leetcode.com/problems/lru-cache/)
-
-# 6.1
-* [Leetcode : Majority Element](https://leetcode.com/problems/majority-element/)
-* [Leetcode : Gas Station](https://leetcode.com/problems/gas-station/)
 
 # 5.25
 * [Leetcode : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
