@@ -7,10 +7,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # OLD
 * [Leetcode : Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 
-# 5.25
-* [Leetcode : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-* [Leetcode : Design Twitter](https://leetcode.com/problems/design-twitter/)
-
 # 5.18
 * [Leetcode : Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 * [Leetcode : Task Scheduler](https://leetcode.com/problems/task-scheduler/)
