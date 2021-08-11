@@ -3,17 +3,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 # AGAIN
 * [Leetcode : Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
-
+* [Leetcode : Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+* 
 # OLD
 * [Leetcode : Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-
-# 5.18
-* [Leetcode : Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
-* [Leetcode : Task Scheduler](https://leetcode.com/problems/task-scheduler/)
-
-# 5.11
-* [Leetcode : Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
-* [Leetcode : Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
 # 5.4
 * [Leetcode : Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
